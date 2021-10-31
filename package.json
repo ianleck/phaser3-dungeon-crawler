@@ -1,10 +1,9 @@
 {
-  "name": "phaser3-dungeonCrawler",
+  "name": "phaser3-dungeon-Crawler",
   "version": "1.0.0",
   "description": "A basic dungeon crawler built with phaser3, built using parcel template",
   "scripts": {
     "start": "parcel src/index.html -p 8000",
-    "build": "parcel build src/index.html --out-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ianleck",
